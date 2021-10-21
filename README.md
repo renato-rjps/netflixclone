@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project simuletes the main netflix page.
+
+Course link: [NETFLIX Clone with ReactJs](https://www.youtube.com/watch?v=tBweoUiMsDg)
 
 ## Available Scripts
 
